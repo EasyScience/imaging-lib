@@ -1,2 +1,2 @@
-# EasyBraggLib
-Imaging data analysis library
+# EasyImagingLib
+Bragg-edge imaging data analysis library
