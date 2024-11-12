@@ -2,7 +2,7 @@
 [![PyPI badge](http://img.shields.io/pypi/v/EasyImaging.svg)](https://pypi.python.org/pypi/EasyImaging)
 [![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 
-# Easyimaging
+<img src="https://raw.githubusercontent.com/EasyScience/EasyImagingLib/master/resources/images/ei_logo.svg" height="65">
 
 ## About
 
