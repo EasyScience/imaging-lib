@@ -11,5 +11,5 @@ Python package for bragg-edge analysis
 ## Installation
 
 ```sh
-python -m pip install EasyImaging
+python -m pip install easyimaging
 ```
