@@ -1,0 +1,4 @@
+pooch
+essimaging@git+https://github.com/scipp/essimaging@imaging-io
+ncrystal[all]
+easyscience
